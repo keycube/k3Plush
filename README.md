@@ -1,10 +1,14 @@
 # k3plush
 k3plush (*Papuche*) is a cube-shaped plush game controller. This plush cube has five sides with four buttons (2x2 matrix) in conductive fabric and embroidery, the last side has a zip for internal access and a tab with two buttons for the activation mechanism. All the electronic elements inside the controller allow it to be programmed and reprogrammed (Python with CircuitPython) according to the intended use: educational games, sensory activities, decorative element, etc. As the controller is made of plush, it can be handled safely by small children.
+
 ***
+
 <p align="center">
   <img src="https://github.com/keycube/k3plush/blob/main/assets/poster/papucheEnglish.png" alt="English poster" width="500" height="760" />
 </p>
+
 ***
+
 ## Supplies
 
 ### Fabrics
@@ -29,10 +33,14 @@ k3plush (*Papuche*) is a cube-shaped plush game controller. This plush cube has 
 ### Mindset
 - Patience.
 - Faith in the project stages.
+
 ***
+
 ## Wiki
 [Wiki](https://github.com/keycube/k3plush/wiki)
+
 ***
+
 ## People behind the project
 Student and designer: **Emeline PELLAN**<br>
 Supervisor: **Damien BRUN**
