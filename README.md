@@ -25,6 +25,7 @@ k3plush (*Papuche*) is a cube-shaped plush game controller. This plush cube has 
 - One piece of white cotton fabric measuring 20x60 cm.
 - One piece of conductive fabric (60% cotton, 35% silver thread, 2% elastic fibre) measuring 30x30 cm.
 - Embroidery thread in the colours of your choice, as well as the associated embroidery equipment (hoop, needle, scissors, needle threader, thimble, etc.).
+- Sewing threads matching the coloured fabrics.
 - Sewing threads of any colour.
 - One 8 cm white or black zip.
 - Two white or black sewing buttons.
