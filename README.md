@@ -14,7 +14,7 @@ k3plush (*Papuche*) is a cube-shaped plush game controller. This plush cube has 
 ### Electronics
 - One XIAO nRF52840 Sense microcontroller: 32-bit ARM Cortex-M4, 6-axis IMU, microphone, Bluetooth 5.0 (BLE) and NFC, USB-C connection.
 - Two MPR121 sensors: 12-pin capacitive touch sensors (I2C bus).
-- One battery: Lithium Ion (Li-Po) 3.7v - 400 mAh.
+- One battery: Lithium Ion (Li-Po) 3.7 V - 400 mAh.
 - Around twenty electrical cables or a reel.
 - A soldering iron and tin.
 - A glue gun and a glue stick.
