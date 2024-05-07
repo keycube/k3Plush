@@ -31,6 +31,7 @@ k3plush (*Papuche*) is a cube-shaped plush game controller. This plush cube has 
 - Sewing threads of any colour.
 - One 8 cm white or black zip.
 - Two white or black sewing buttons.
+- Padding foam.
 
 *N.B.*: *Papuche* has been entirely sewn by hand, but it is certainly possible to use a sewing machine.
 
